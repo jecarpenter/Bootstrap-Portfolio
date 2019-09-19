@@ -1,0 +1,36 @@
+body {
+    background-image: url(footer_lodyas.png);
+    font-family: 'Questrial', sans-serif;
+    color: #ffffff;
+    font-size: 24px;
+
+}
+.navbar {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.container-fluid {
+    margin-top: 80px;
+}
+
+.page-footer {
+    background-color: #557a95
+}
+
+h1{
+    text-align: center;
+}
+
+
+.container {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.card-text {
+    color: #557a95
+}
+
+div.col-lg {
+    margin-right: 150px
+}
